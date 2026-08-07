@@ -1,8 +1,3 @@
-Here is a comprehensive, production-ready **`README.md`** template tailored specifically for your `dynamic-pricing-engine` repository. You can copy and paste this directly into your repository's `README.md` file.
-
----
-
-```markdown
 # 🚀 Dynamic Pricing Engine
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
